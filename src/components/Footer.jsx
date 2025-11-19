@@ -28,7 +28,7 @@ function Footer() {
         </div>
         <div className="footer-bottom">
           <p>
-            © 2024 Saṃbandhaṃ. All rights reserved. May your celebrations be
+            © 2025 Subhagā. All rights reserved. May your celebrations be
             blessed.
           </p>
         </div>

@@ -17,7 +17,7 @@ function ContactInfo() {
         <Mail className="info-icon" aria-hidden="true" />
         <div>
           <h4 className="font-playfair">Email Us</h4>
-          <p>book@sambandham.in</p>
+          <p><a href="mailto:subhagaorg@gmail.com">subhagaorg@gmail.com</a></p>
         </div>
       </div>
       <div className="info-item">

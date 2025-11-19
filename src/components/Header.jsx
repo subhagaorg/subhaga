@@ -89,7 +89,7 @@ function Header() {
           </div>
           <div>
             <h1 className="logo-text font-playfair">सुभगा Subhagā</h1>
-            <p className="tagline">Auspicious Venues for Sacred Moments</p>
+            <p className="tagline">Where every bond echoes forever</p>
           </div>
         </div>
 
